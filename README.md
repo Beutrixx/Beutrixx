@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Beutrixx
 - 👀 I’m interested in ...learning new skills
-- 🌱 I’m currently learning ...React Native n Laravel
+- 🌱 I’m currently learning ...React Native n Figma
 - 💞️ I’m looking to collaborate on ...wag tama n ayoqo n
 - 📫 How to reach me ... pls dont
 - 😄 Pronouns: ...mine/yours
